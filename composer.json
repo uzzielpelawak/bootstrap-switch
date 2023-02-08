@@ -1,9 +1,9 @@
 {
-	"name": "uzziepelawak/bootstrap-switch",
+	"name": "uzzielpelawak/bootstrap-switch",
 	"description": "BootstrapSwitch extension for yii 2",
 	"autoload": {
 		"psr-4": {
-			"uzziepelawak\\extensions\\BootstrapSwitch\\": ""
+			"uzzielpelawak\\extensions\\BootstrapSwitch\\": ""
 		}
 	}
 }
