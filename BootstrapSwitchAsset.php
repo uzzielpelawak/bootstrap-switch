@@ -1,6 +1,6 @@
 <?php
 
-namespace webvimark\extensions\BootstrapSwitch;
+namespace uzziepelawak\extensions\BootstrapSwitch;
 
 use yii\web\AssetBundle;
 

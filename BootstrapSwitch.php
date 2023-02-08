@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\extensions\BootstrapSwitch;
+namespace uzziepelawak\extensions\BootstrapSwitch;
 
 use yii\base\Widget;
 use yii\helpers\Json;
